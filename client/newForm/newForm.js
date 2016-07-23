@@ -18,6 +18,7 @@ Template.newForm.events({
 	Router.go(`/${firstName}`);
 
 
+
 	}
 
 });
